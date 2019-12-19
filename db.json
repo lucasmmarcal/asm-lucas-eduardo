@@ -1,15 +1,387 @@
+[
+
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    },
-    {
-      "id": 2,
-      "title": "world"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    name: 'Farinha de trigo',
+    description: 'Descrição do produto: Farinha de trigo',
+    price: 	'9',
+	file: 'Sem imagem'
+  },
+{
+    name: 'Feijão',
+    description: 'Descrição do produto: Feijão',
+    price: 	'3',
+	file: 'Sem imagem'
+  },
+{
+    name: 'Fermento',
+    description: 'Descrição do produto: Fermento',
+    price: 	'10',
+	file: 'Sem imagem'
+  },
+{
+    name: 'Filme plástico',
+    description: 'Descrição do produto: Filme plástico',
+    price: 	'7',
+	file: 'Sem imagem'
+  },
+{
+    name: 'Filtros para café',
+    description: 'Descrição do produto: Filtros para café',
+    price: 	'12',
+	file: 'Sem imagem'
+  },
+{
+    name: 'Fio dental',
+    description: 'Descrição do produto: Fio dental',
+    price: 	'8',
+	file: 'Sem imagem'
+  },
+{
+    name: 'Fita crepe',
+    description: 'Descrição do produto: Fita crepe',
+    price: 	'2',
+	file: 'Sem imagem'
+  },
+{
+    name: 'Fita isolante',
+    description: 'Descrição do produto: Fita isolante',
+    price: 	'18',
+	file: 'Sem imagem'
+  },
+{
+    name: 'Flanelas',
+    description: 'Descrição do produto: Flanelas',
+    price: 	'18',
+	file: 'Sem imagem'
+  },
+{
+    name: 'Fósforo',
+    description: 'Descrição do produto: Fósforo',
+    price: 	'3',
+	file: 'Sem imagem'
+  },
+{
+    name: 'Fósforos',
+    description: 'Descrição do produto: Fósforos',
+    price: 	'2',
+	file: 'Sem imagem'
+  },
+{
+    name: 'Frango',
+    description: 'Descrição do produto: Frango',
+    price: 	'13',
+	file: 'Sem imagem'
+  },
+{
+    name: 'Gaze',
+    description: 'Descrição do produto: Gaze',
+    price: 	'6',
+	file: 'Sem imagem'
+  },
+{
+    name: 'Geleia',
+    description: 'Descrição do produto: Geleia',
+    price: 	'8',
+	file: 'Sem imagem'
+  },
+{
+    name: 'Guardanapo de papel',
+    description: 'Descrição do produto: Guardanapo de papel',
+    price: 	'6',
+	file: 'Sem imagem'
+  },
+{
+    name: 'Guardanapos',
+    description: 'Descrição do produto: Guardanapos',
+    price: 	'12',
+	file: 'Sem imagem'
+  },
+{
+    name: 'Hastes flexíveis',
+    description: 'Descrição do produto: Hastes flexíveis',
+    price: 	'15',
+	file: 'Sem imagem'
+  },
+{
+    name: 'Inseticida',
+    description: 'Descrição do produto: Inseticida',
+    price: 	'2',
+	file: 'Sem imagem'
+  },
+{
+    name: 'Iogurte',
+    description: 'Descrição do produto: Iogurte',
+    price: 	'12',
+	file: 'Sem imagem'
+  },
+{
+    name: 'Lâmina de barbear',
+    description: 'Descrição do produto: Lâmina de barbear',
+    price: 	'3',
+	file: 'Sem imagem'
+  },
+{
+    name: 'Lâmpadas',
+    description: 'Descrição do produto: Lâmpadas',
+    price: 	'8',
+	file: 'Sem imagem'
+  },
+{
+    name: 'Leite',
+    description: 'Descrição do produto: Leite',
+    price: 	'3',
+	file: 'Sem imagem'
+  },
+{
+    name: 'Leite condensado',
+    description: 'Descrição do produto: Leite condensado',
+    price: 	'13',
+	file: 'Sem imagem'
+  },
+{
+    name: 'Limpa vidros',
+    description: 'Descrição do produto: Limpa vidros',
+    price: 	'19',
+	file: 'Sem imagem'
+  },
+{
+    name: 'Lustra-móveis',
+    description: 'Descrição do produto: Lustra-móveis',
+    price: 	'7',
+	file: 'Sem imagem'
+  },
+{
+    name: 'Luvas plásticas',
+    description: 'Descrição do produto: Luvas plásticas',
+    price: 	'18',
+	file: 'Sem imagem'
+  },
+{
+    name: 'Macarrão',
+    description: 'Descrição do produto: Macarrão',
+    price: 	'13',
+	file: 'Sem imagem'
+  },
+{
+    name: 'Maisena',
+    description: 'Descrição do produto: Maisena',
+    price: 	'7',
+	file: 'Sem imagem'
+  },
+{
+    name: 'Manteiga',
+    description: 'Descrição do produto: Manteiga',
+    price: 	'3',
+	file: 'Sem imagem'
+  },
+{
+    name: 'Margarina',
+    description: 'Descrição do produto: Margarina',
+    price: 	'2',
+	file: 'Sem imagem'
+  },
+{
+    name: 'Massa',
+    description: 'Descrição do produto: Massa',
+    price: 	'14',
+	file: 'Sem imagem'
+  },
+{
+    name: 'Molho de tomate',
+    description: 'Descrição do produto: Molho de tomate',
+    price: 	'16',
+	file: 'Sem imagem'
+  },
+{
+    name: 'Multiuso',
+    description: 'Descrição do produto: Multiuso',
+    price: 	'5',
+	file: 'Sem imagem'
+  },
+{
+    name: 'Óleo',
+    description: 'Descrição do produto: Óleo',
+    price: 	'12',
+	file: 'Sem imagem'
+  },
+{
+    name: 'Ovos',
+    description: 'Descrição do produto: Ovos',
+    price: 	'13',
+	file: 'Sem imagem'
+  },
+{
+    name: 'Pães',
+    description: 'Descrição do produto: Pães',
+    price: 	'18',
+	file: 'Sem imagem'
+  },
+{
+    name: 'Palha de aço',
+    description: 'Descrição do produto: Palha de aço',
+    price: 	'5',
+	file: 'Sem imagem'
+  },
+{
+    name: 'Palitos de dente',
+    description: 'Descrição do produto: Palitos de dente',
+    price: 	'3',
+	file: 'Sem imagem'
+  },
+{
+    name: 'Pão de forma ',
+    description: 'Descrição do produto: Pão de forma ',
+    price: 	'16',
+	file: 'Sem imagem'
+  },
+{
+    name: 'Papel alumínio',
+    description: 'Descrição do produto: Papel alumínio',
+    price: 	'20',
+	file: 'Sem imagem'
+  },
+{
+    name: 'Papel filme',
+    description: 'Descrição do produto: Papel filme',
+    price: 	'14',
+	file: 'Sem imagem'
+  },
+{
+    name: 'Papel higiênico',
+    description: 'Descrição do produto: Papel higiênico',
+    price: 	'11',
+	file: 'Sem imagem'
+  },
+{
+    name: 'Papel toalha',
+    description: 'Descrição do produto: Papel toalha',
+    price: 	'17',
+	file: 'Sem imagem'
+  },
+{
+    name: 'Peixe',
+    description: 'Descrição do produto: Peixe',
+    price: 	'10',
+	file: 'Sem imagem'
+  },
+{
+    name: 'Pimentão',
+    description: 'Descrição do produto: Pimentão',
+    price: 	'4',
+	file: 'Sem imagem'
+  },
+{
+    name: 'Pipoca',
+    description: 'Descrição do produto: Pipoca',
+    price: 	'3',
+	file: 'Sem imagem'
+  },
+{
+    name: 'Presunto',
+    description: 'Descrição do produto: Presunto',
+    price: 	'18',
+	file: 'Sem imagem'
+  },
+{
+    name: 'Queijo ralado',
+    description: 'Descrição do produto: Queijo ralado',
+    price: 	'16',
+	file: 'Sem imagem'
+  },
+{
+    name: 'Queijos',
+    description: 'Descrição do produto: Queijos',
+    price: 	'5',
+	file: 'Sem imagem'
+  },
+{
+    name: 'Requeijão',
+    description: 'Descrição do produto: Requeijão',
+    price: 	'5',
+	file: 'Sem imagem'
+  },
+{
+    name: 'Sabão',
+    description: 'Descrição do produto: Sabão',
+    price: 	'18',
+	file: 'Sem imagem'
+  },
+{
+    name: 'Sabão em pedra',
+    description: 'Descrição do produto: Sabão em pedra',
+    price: 	'20',
+	file: 'Sem imagem'
+  },
+{
+    name: 'Sabão em pó',
+    description: 'Descrição do produto: Sabão em pó',
+    price: 	'10',
+	file: 'Sem imagem'
+  },
+{
+    name: 'Sabonete',
+    description: 'Descrição do produto: Sabonete',
+    price: 	'12',
+	file: 'Sem imagem'
+  },
+{
+    name: 'Saco de lixo',
+    description: 'Descrição do produto: Saco de lixo',
+    price: 	'6',
+	file: 'Sem imagem'
+  },
+{
+    name: 'Sacos de lixo',
+    description: 'Descrição do produto: Sacos de lixo',
+    price: 	'14',
+	file: 'Sem imagem'
+  },
+{
+    name: 'Sal',
+    description: 'Descrição do produto: Sal',
+    price: 	'18',
+	file: 'Sem imagem'
+  },
+{
+    name: 'Shampoo',
+    description: 'Descrição do produto: Shampoo',
+    price: 	'13',
+	file: 'Sem imagem'
+  },
+{
+    name: 'Suco',
+    description: 'Descrição do produto: Suco',
+    price: 	'7',
+	file: 'Sem imagem'
+  },
+{
+    name: 'Temperos',
+    description: 'Descrição do produto: Temperos',
+    price: 	'18',
+	file: 'Sem imagem'
+  },
+{
+    name: 'Tomate',
+    description: 'Descrição do produto: Tomate',
+    price: 	'5',
+	file: 'Sem imagem'
+  },
+{
+    name: 'Torradas',
+    description: 'Descrição do produto: Torradas',
+    price: 	'18',
+	file: 'Sem imagem'
+  },
+{
+    name: 'Velas',
+    description: 'Descrição do produto: Velas',
+    price: 	'7',
+	file: 'Sem imagem'
+  },
+{
+    name: 'Vinagre',
+    description: 'Descrição do produto: Vinagre',
+   price: 	'3',
+	file: 'Sem imagem'
 }
+]
